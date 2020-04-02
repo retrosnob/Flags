@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9ba985c-684c-4f56-baee-fbcbb51ea74c" name="Default Changelist" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/FlagsB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlagsB.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlagsB.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/flags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/af.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/al.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/am.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/at.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/au.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/az.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/be.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/br.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/by.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ci.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/co.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/do.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/er.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/es.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/et.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ht.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/id.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/il.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/is.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/jp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ke.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/km.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/la.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/li.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/md.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/me.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/na.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/np.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/om.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/py.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/qa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/si.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/so.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/st.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/td.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/th.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ua.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/uz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/va.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ws.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/xk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/za.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/zm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/zw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/FileHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/MainForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FlagsB/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZVSyVMTzk82E1uF6smYRL1CgiK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainForm">
+    <configuration name="MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainForm" />
+      <module name="FlagsB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Model" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Model" />
+      <module name="FlagsB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainForm" />
+        <item itemvalue="Application.Model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9ba985c-684c-4f56-baee-fbcbb51ea74c" name="Default Changelist" comment="" />
+      <created>1584923022122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584923022122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2688" y="259" width="384" height="566" key="#com.intellij.ide.util.MemberChooser" timestamp="1585801405180">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="259" width="384" height="566" key="#com.intellij.ide.util.MemberChooser/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585801405180" />
+    <state x="2525" y="136" width="710" height="815" key="CommitChangelistDialog2" timestamp="1585803319504">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2525" y="136" width="710" height="815" key="CommitChangelistDialog2/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585803319504" />
+    <state x="2663" y="284" width="434" height="515" key="FileChooserDialogImpl" timestamp="1585803183979">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="284" width="434" height="515" key="FileChooserDialogImpl/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585803183979" />
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom" timestamp="1585803099968">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.bottom/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585803099968" />
+    <state width="1878" height="173" key="GridCell.Tab.0.center" timestamp="1585803099968">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.center/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585803099968" />
+    <state width="1878" height="173" key="GridCell.Tab.0.left" timestamp="1585803099968">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.left/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585803099968" />
+    <state width="1878" height="173" key="GridCell.Tab.0.right" timestamp="1585803099968">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="173" key="GridCell.Tab.0.right/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585803099968" />
+    <state x="2475" y="276" width="810" height="532" key="Vcs.Push.Dialog.v2" timestamp="1585805082826">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="276" width="810" height="532" key="Vcs.Push.Dialog.v2/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585805082826" />
+    <state x="2521" y="129" width="718" height="825" key="new project wizard" timestamp="1585027272092">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2521" y="129" width="718" height="825" key="new project wizard/1213.1080.1368.768/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1585027272092" />
+  </component>
+</project>
